@@ -63,7 +63,43 @@
 \vspace{0.2cm}
 \textbf{8. In what ratio is the straight line joining the pts. $(3,4)$ and $(8,1)$ divides by the $X$ axis. Find the abscissa of this point on $X$ axis.}\par
 \vspace{0.2cm}
-\textbf{9. }
+\textbf{9. Find the polar co-ordinates of the point whose cartesian co-ordinates are}\par
+\textbf{(a) $(\sqrt{-3},1)$  }\par
+\textbf{(b) $(5,12)$}\par
+\vspace{0.2cm}
+\textbf{10. Find the cartesian co-ordinates of the points whose polar co-ordinates are}\par
+\textbf{(a) $(5, -\pi/4)$}\par
+\textbf{(b) $(2, 330^{\circ})$}\par
+\vspace{0.2cm}
+\textbf{11. Find the polar distance between the points whose polar co-ordinates are }\par
+\textbf{(a) $(-3, 45^{\circ})$ and $(7, 105^{\circ})$}\par
+\textbf{(b) $(\sqrt{2}, 5\pi/4)$ and $(2, 2\pi/3)$}\par
+\vspace{0.2cm}
+\textbf{12. Find the area of triangle , the polar co-ordinates of whose angular points are $(a , \theta), (2a , \theta+\pi/3), (3a , \theta+2\pi/3)$}\par
+\vspace{0.2cm}
+\textbf{13. Change the equations to polar co-ordinates}\par
+\textbf{(a) $(x^2+y^2)^2 = 2a^2xy$}\par
+\textbf{(b) $x^4 + x^2y^2 - (x+y)^2 = 0$}\par
+\vspace{0.2cm}
+\textbf{14. Transform the co-ordinates to equations}\par
+\textbf{(a) $r^2-2r(cos\hspace{0.1cm}\theta-sin\hspace{0.1cm}\theta)-7 = 0$}\par
+\textbf{(b) $r(1- e\hspace{0.1cm} cos\hspace{0.1cm}\theta) = e\hspace{0.1cm}p$}\par
+\vspace{0.2cm}
+\textbf{15. Find the equations to lines passing through $(-5,6)$ and (a) parallel (b) perpendicular to $7x-8y = 9$.}\par
+\vspace{0.2cm}
+\textbf{16. Find the area of triangle formed by the lines $2x=y-3 = 0$, $3x+2y-1 = 0$ and $2x+3y+4 = 0$.}\par
+\vspace{0.2cm}
+\textbf{17. Find the equations of the line which passes through the insertion of the lines $3x-5y+9 = 0$ and $4x +7y-28 = 0$ and satisfies the following conditions}\par
+\textbf{(a) passes through $(4,2)$}\par
+\textbf{(b) Whose intercepts are equal. }\par
+\vspace{0.2cm}
+\textbf{18. What are the pts on the $X$ axis whose perpendicular distance from the straight line $x/a + y/b = 1$ is $a$. }\par
+\vspace{0.2cm}
+\textbf{19. If $p$ and $p_1$ be the perpendiculars from the origin upon the st lines whose equations are $x\hspace{0.1cm} sec\hspace{0.1cm}\theta+y \hspace{0.1cm}cosec\hspace{0.1cm} \theta = a$ and $x\hspace{0.1cm} cos\hspace{0.1cm}\theta - y \hspace{0.1cm}sin \hspace{0.1cm}\theta = a \hspace{0.1cm}cos\hspace{0.1cm} 2\theta $. Prove that $4p^2 + (p_1)^2 = a^2$.}\par
+\vspace{0.2cm}
+\textbf{20.}
+
+
 
 
 
