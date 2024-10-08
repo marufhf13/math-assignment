@@ -64,7 +64,7 @@
 \textbf{8. In what ratio is the straight line joining the pts. $(3,4)$ and $(8,1)$ divides by the $X$ axis. Find the abscissa of this point on $X$ axis.}\par
 \vspace{0.2cm}
 \textbf{9. Find the polar co-ordinates of the point whose cartesian co-ordinates are}\par
-\textbf{(a) $(\sqrt{-3},1)$  }\par
+\textbf{(a) $(-\sqrt{3},1)$  }\par
 \textbf{(b) $(5,12)$}\par
 \vspace{0.2cm}
 \textbf{10. Find the cartesian co-ordinates of the points whose polar co-ordinates are}\par
@@ -97,7 +97,18 @@
 \vspace{0.2cm}
 \textbf{19. If $p$ and $p_1$ be the perpendiculars from the origin upon the st lines whose equations are $x\hspace{0.1cm} sec\hspace{0.1cm}\theta+y \hspace{0.1cm}cosec\hspace{0.1cm} \theta = a$ and $x\hspace{0.1cm} cos\hspace{0.1cm}\theta - y \hspace{0.1cm}sin \hspace{0.1cm}\theta = a \hspace{0.1cm}cos\hspace{0.1cm} 2\theta $. Prove that $4p^2 + (p_1)^2 = a^2$.}\par
 \vspace{0.2cm}
-\textbf{20.}
+\textbf{20. The equation to a pair of opposite sides of a parallelogram are $x^2 -7x -6 = 0$ and $y^2 -11y  +40 =0$. Find the equations to its diagonals.}\par
+\newpage
+\textbf{21. Prove that the line $x+\sqrt{3}y = 0$ bisects the $\Delta$ whose vertices are $(3,-\sqrt{3})$, $(-1,-\sqrt{3})$ and $(1,\sqrt{3})$.}\par
+\vspace{0.2cm}
+\textbf{22. Find the equation of the bisector of that angle between the lines $4x-3y+1 =0 $ and $12x - 5y +13 =0 $ in which the origin lies. }\par
+\vspace{0.2cm}
+\textbf{23. Find the equation of two st. lines passing through the points $(1,-1)$ and inclined with an angle $45^\circ$ with the st. line }\par
+\vspace{0.2cm}
+\textbf{24. A straight line moves so that the sum of the receiprocals of its intercepts on the axes is constant, show that it passes through a fixed point.}\par
+\vspace{0.2cm}
+\textbf{25. Find the area of the triangles formed by the lines $8x+7y-43=0$, $2x=5y = 1$ and $4x-3y+11 = 0$.}\par
+\newpage
 
 
 
